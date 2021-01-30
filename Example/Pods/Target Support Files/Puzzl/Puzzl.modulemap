@@ -1,0 +1,6 @@
+framework module Puzzl {
+  umbrella header "Puzzl-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Puzzl_Example {
+  umbrella header "Pods-Puzzl_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
